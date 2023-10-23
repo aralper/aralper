@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @aralper
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning docker image
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aralper/aralper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @aralper. I have been continuing node testnets for a long time, which I started with the Aleo project. Additionally, I participate in platform testnets in many projects. I have installed approximately 35-40 nodes such as Aleo, Sui, Subspace, Bundler, Aptos, Obol, Stride and Massa. I currently have ongoing nodes in Subspace, Dymension, Fleek, Avail and Ar.io projects. 
